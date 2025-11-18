@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main',
+                git branch: 'mohan',
                     url: 'https://github.com/Amruta9993/Frontend-new-project.git',
                     credentialsId: 'frontend'
             }
