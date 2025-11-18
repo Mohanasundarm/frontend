@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'ap-south-1'
-        S3_BUCKET = 'project-frontend-bucket-10-11-25 '
+        S3_BUCKET = 'mohan10061992  '
     }
 
     stages {
